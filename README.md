@@ -1,4 +1,4 @@
-# Tetris-JavaFX-Clone
+# Tetris-JavaFX-Clone-Preview
 Tetris JavaFX Clone (README only)
 Received a 99% grade
 
